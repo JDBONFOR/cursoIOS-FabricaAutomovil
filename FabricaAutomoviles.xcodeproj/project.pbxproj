@@ -15,6 +15,8 @@
 		0EC3D6AB24BA0A70004EC136 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0EC3D6A924BA0A70004EC136 /* LaunchScreen.storyboard */; };
 		0EC3D6B624BA0A70004EC136 /* FabricaAutomovilesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D6B524BA0A70004EC136 /* FabricaAutomovilesTests.swift */; };
 		0EC3D6C124BA0A70004EC136 /* FabricaAutomovilesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D6C024BA0A70004EC136 /* FabricaAutomovilesUITests.swift */; };
+		0EC3D6CF24BA0ADB004EC136 /* Automovil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D6CE24BA0ADB004EC136 /* Automovil.swift */; };
+		0EC3D6D124BA1201004EC136 /* DetalleAutomovilViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D6D024BA1201004EC136 /* DetalleAutomovilViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		0EC3D6BC24BA0A70004EC136 /* FabricaAutomovilesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FabricaAutomovilesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EC3D6C024BA0A70004EC136 /* FabricaAutomovilesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FabricaAutomovilesUITests.swift; sourceTree = "<group>"; };
 		0EC3D6C224BA0A70004EC136 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0EC3D6CE24BA0ADB004EC136 /* Automovil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Automovil.swift; sourceTree = "<group>"; };
+		0EC3D6D024BA1201004EC136 /* DetalleAutomovilViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetalleAutomovilViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				0EC3D69E24BA0A6C004EC136 /* AppDelegate.swift */,
 				0EC3D6A024BA0A6C004EC136 /* SceneDelegate.swift */,
 				0EC3D6A224BA0A6C004EC136 /* ViewController.swift */,
+				0EC3D6CE24BA0ADB004EC136 /* Automovil.swift */,
+				0EC3D6D024BA1201004EC136 /* DetalleAutomovilViewController.swift */,
 				0EC3D6A424BA0A6C004EC136 /* Main.storyboard */,
 				0EC3D6A724BA0A70004EC136 /* Assets.xcassets */,
 				0EC3D6A924BA0A70004EC136 /* LaunchScreen.storyboard */,
@@ -261,7 +267,9 @@
 			files = (
 				0EC3D6A324BA0A6C004EC136 /* ViewController.swift in Sources */,
 				0EC3D69F24BA0A6C004EC136 /* AppDelegate.swift in Sources */,
+				0EC3D6CF24BA0ADB004EC136 /* Automovil.swift in Sources */,
 				0EC3D6A124BA0A6C004EC136 /* SceneDelegate.swift in Sources */,
+				0EC3D6D124BA1201004EC136 /* DetalleAutomovilViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
