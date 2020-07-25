@@ -35,13 +35,9 @@ class ViewController: UIViewController {
 
     // MARK: Prepare SEGUE
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        
         if let vcDestino = segue.destination as? DetalleAutomovilViewController {
-            
             vcDestino.tipoAutomovil = self.tipoAutomovil
-            
         }
-        
     }
     
 }

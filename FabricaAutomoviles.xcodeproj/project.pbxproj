@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E19BD0D24CC6B5F001B0F62 /* AutomovilElectrico.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E19BD0C24CC6B5F001B0F62 /* AutomovilElectrico.swift */; };
 		0EC3D69F24BA0A6C004EC136 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D69E24BA0A6C004EC136 /* AppDelegate.swift */; };
 		0EC3D6A124BA0A6C004EC136 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D6A024BA0A6C004EC136 /* SceneDelegate.swift */; };
 		0EC3D6A324BA0A6C004EC136 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0EC3D6A224BA0A6C004EC136 /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0E19BD0C24CC6B5F001B0F62 /* AutomovilElectrico.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AutomovilElectrico.swift; sourceTree = "<group>"; };
 		0EC3D69B24BA0A6C004EC136 /* FabricaAutomoviles.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FabricaAutomoviles.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0EC3D69E24BA0A6C004EC136 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0EC3D6A024BA0A6C004EC136 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				0EC3D6A024BA0A6C004EC136 /* SceneDelegate.swift */,
 				0EC3D6A224BA0A6C004EC136 /* ViewController.swift */,
 				0EC3D6CE24BA0ADB004EC136 /* Automovil.swift */,
+				0E19BD0C24CC6B5F001B0F62 /* AutomovilElectrico.swift */,
 				0EC3D6D024BA1201004EC136 /* DetalleAutomovilViewController.swift */,
 				0EC3D6A424BA0A6C004EC136 /* Main.storyboard */,
 				0EC3D6A724BA0A70004EC136 /* Assets.xcassets */,
@@ -266,6 +269,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0EC3D6A324BA0A6C004EC136 /* ViewController.swift in Sources */,
+				0E19BD0D24CC6B5F001B0F62 /* AutomovilElectrico.swift in Sources */,
 				0EC3D69F24BA0A6C004EC136 /* AppDelegate.swift in Sources */,
 				0EC3D6CF24BA0ADB004EC136 /* Automovil.swift in Sources */,
 				0EC3D6A124BA0A6C004EC136 /* SceneDelegate.swift in Sources */,
